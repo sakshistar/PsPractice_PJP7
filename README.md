@@ -8,8 +8,8 @@ git commit -m "file added" to commit the changes\
 git push origin -u sakshi2 to push the changes from local repository to remote repository(PsPractice_PJP7) of my branch(sakshi2)\
 add sakshi123 file and push changes to remote repository\
 modified sakshi123 file using code sakshi123\ 
-make a directory using mkdir folder1 then cd folder1/ and make new file f1 \
-use git status to check status of file and use git log -2 to check previous to commit \
+make a directory using mkdir folder1 then cd folder1/ and make new file f1\
+use git status to check status of file and use git log -2 to check previous to commit\
 remove sakshi123 using git rm sakshi123 then stage->commit->push the changes\
 remove folder1 then stage->commit->push the changes\
 copy the repository to my github profile using fork\
